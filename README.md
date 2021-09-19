@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <code><a href="https://sass-lang.com/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"></a></code>
 <code><a href="https://reactjs.org/docs/jsx-in-depth.html"><img height="20" src="https://media.glassdoor.com/sqll/3149443/jsx-squarelogo-1583785604190.png"></a></code>
 <code><a href="https://hackr.io"><img height="20" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></a></code>
-<code><a href="https://ant.design/"><img height="20" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></a></code>
+<code><a href="https://angular.io"><img height="20" src="https://angular.io/assets/images/logos/angular/angular.png"></a></code>
 <hr/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=neeleshio.visitor-badge)
