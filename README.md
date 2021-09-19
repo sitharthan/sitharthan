@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="https://github.com/sitharthan/sitharthan/blob/main/sitharthan.png" alt="Markdownify" width="600">
 </h1>
+<h1 align="center">
+  <img src="https://github.com/sitharthan/sitharthan/blob/main/react_logo.gif" alt="Markdownify" width="600">
+</h1>
 
 ### Hi, I'am Sitharthan 👋
 
