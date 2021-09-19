@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <img src="https://github.com/sitharthan/sitharthan/blob/main/reactgif.gif" alt="Markdownify" width="600">
+  <p>ReactJS Developer</p>
 </h1>
 
-<h1 align="center">
-  <img src="https://github.com/sitharthan/sitharthan/blob/main/Sitharthan_ReactJS_Developer.PNG" alt="Markdownify" width="600">
-</h1>
+
 
 **Languages and Tools:**  
 
