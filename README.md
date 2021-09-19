@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://github.com/sitharthan/sitharthan/blob/main/reactgif.gif" alt="Markdownify" width="600">
-  <img src="https://github.com/sitharthan/sitharthan/blob/main/myReact.PNG" alt="myProfile" width="600" height="300">
+  <img src="https://github.com/sitharthan/sitharthan/blob/main/reactgif.gif" alt="Markdownify" width="600" height="300">
+  <img src="https://github.com/sitharthan/sitharthan/blob/main/myReact.PNG" alt="myProfile" width="600">
 </h1>
 
 
