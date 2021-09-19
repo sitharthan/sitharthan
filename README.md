@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <img src="https://github.com/sitharthan/sitharthan/blob/main/reactgif.gif" alt="Markdownify" width="600">
-  <div class="css-3d-text">REACTJS DEVELOPER</div>
+  <div style="color:skyblue">REACTJS DEVELOPER</div>
 </h1>
 
 
