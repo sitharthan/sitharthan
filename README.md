@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+  <img src="https://github.com/sitharthan/sitharthan/blob/main/reactgif.gif" alt="Markdownify" width="600">
+  <img src="https://github.com/sitharthan/sitharthan/blob/main/myReact.PNG" alt="myProfile" width="600">
+</h1>
+
+
 
 ### Hi, I'am Sitharthan 👋
 
@@ -24,12 +30,6 @@ Here are some ideas to get you started:
 </ul>
   
 <hr/>
-
-<h1 align="center">
-  <img src="https://github.com/sitharthan/sitharthan/blob/main/reactgif.gif" alt="Markdownify" width="600">
-  <img src="https://github.com/sitharthan/sitharthan/blob/main/myReact.PNG" alt="myProfile" width="600">
-</h1>
-
 
 
 **Languages and Tools:**  
