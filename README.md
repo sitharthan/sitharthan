@@ -13,7 +13,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+ .css-3d-text {
+    font-size: 70px;
+    color: #07a8ff;
+    font-family: "Arial Black", Gadget, sans-serif;
+   font-style: italic;
+    text-shadow: 0px 0px 0 rgb(2,163,250),
+                 1px 1px 0 rgb(-3,158,245),
+                 2px 2px 0 rgb(-8,153,240),
+                 3px 3px 0 rgb(-13,148,235),
+                 4px 4px 0 rgb(-18,143,230),
+                 5px 5px 0 rgb(-23,138,225),
+                 6px 6px 0 rgb(-28,133,220),
+                 7px 7px 0 rgb(-33,128,215),
+                 8px 8px 0 rgb(-38,123,210),
+                 9px 9px 0 rgb(-43,118,205),
+                 10px 10px  0 rgb(-48,113,200),
+                 11px 11px 10px rgba(0,0,0,0.6),
+                 11px 11px 1px rgba(0,0,0,0.5),
+                 0px 0px 10px rgba(0,0,0,.2);
+ }
 
+</style>
 
 
 ### Hi, I'am Sitharthan 👋
@@ -28,7 +50,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <img src="https://github.com/sitharthan/sitharthan/blob/main/reactgif.gif" alt="Markdownify" width="600">
-  <p>ReactJS Developer</p>
+  <div class="css-3d-text">REACTJS DEVELOPER</div>
 </h1>
 
 
