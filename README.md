@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/neelesh(1).png" alt="Markdownify" width="600">
+  <img src="https://github.com/sitharthan/sitharthan/blob/main/sitharthan.png" alt="Markdownify" width="600">
 </h1>
 
 ### Hi, I'am Sitharthan 👋
