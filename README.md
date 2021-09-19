@@ -30,6 +30,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/sitharthan/sitharthan/blob/main/reactgif.gif" alt="Markdownify" width="600">
 </h1>
 
+<h1 align="center">
+  <img src="https://github.com/sitharthan/sitharthan/blob/main/Sitharthan_ReactJS_Developer.PNG" alt="Markdownify" width="600">
+</h1>
+
 **Languages and Tools:**  
 
 <code><a href="https://www.javascript.com/"><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
