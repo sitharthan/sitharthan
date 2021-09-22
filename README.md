@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 <img align="left" alt="MongoDB" width="30px" src="https://github.com/jonasdevzero/Media-Hub/blob/master/icons/mongodb.svg" />
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sitharthan.visitor-badge)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sitharthan.visitor-badge) -->
 <hr/>
