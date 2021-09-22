@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 ![sitharthan github stats](https://github-readme-stats.vercel.app/api?username=sitharthan&show_icons=true&text_color=343434&icon_color=0073cf&hide_border=true&layout=default&hide_title=true)
 ![sitharthan github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sitharthan&layout=compact&hide_border=true)
 
-![Github Stats](https://github.com/sitharthan/github-stats-generator/blob/master/generated/overview.svg)
-
 **Languages and Tools:**  
 
 <code><a href="https://www.javascript.com/"><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
