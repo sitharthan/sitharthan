@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <hr/>
 
 ![sitharthan github stats](https://github-readme-stats.vercel.app/api?username=sitharthan&show_icons=true&text_color=343434&icon_color=0073cf&hide_border=true&layout=default&hide_title=true)
-<!-- ![sitharthan github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sitharthan&layout=compact&hide_border=true) -->
+![sitharthan github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sitharthan&layout=compact&hide_border=true)
 
 
 ## Language and Tools
